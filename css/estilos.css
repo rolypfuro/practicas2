@@ -1,0 +1,42 @@
+header{
+    color: rgb(249, 248, 252);
+    text-align: center;
+    background-color: rgb(1, 104, 194);
+}
+.noticia0{
+    background: white;
+    width: 80%;
+    float: left;
+}
+.noticia1{
+    background: red;
+    color: yellow;
+    width: 20%;
+    float: left;
+    text-align: left;
+   
+}
+.noticia2{
+    background: rgb(221, 221, 178);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.noticia3{
+    background: rgb(183, 183, 76);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.noticia4{
+background: rgb(226, 225, 211);
+float: left;
+text-align: center;
+width: 33.33%;
+}
+footer{
+    color: orange;
+    background: rgb(38, 27, 50);
+    text-align: center;
+    
+}
